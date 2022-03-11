@@ -4,6 +4,7 @@ import javax.persistence.*;
 import java.util.List;
 
 @Entity
+//JHGDSC
 public class Client {
     @Id @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
