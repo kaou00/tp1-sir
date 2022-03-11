@@ -5,6 +5,7 @@ import java.util.List;
 
 @Entity
 //JHGDSC
+//HAHHAAAAAAAAAAAA
 public class Client {
     @Id @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
